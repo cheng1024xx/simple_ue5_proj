@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Visual Studio cache
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Build results
+[Bb]inaries/
+[Ii]ntermediate/
+[Dd]erived[Dd]ata[Cc]ache/
+
+# UE specific
+Saved/
+*.log
+*.pdb
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
